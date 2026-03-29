@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DOWNLOADS/mlops/2022BCS0084-mlops-assignment/mlruns/651432960620910360/ea547df37cac489b9ff49797dbc860b7/artifacts
+end_time: 1774782398417
+entry_point_name: ''
+experiment_id: '651432960620910360'
+lifecycle_stage: active
+run_id: ea547df37cac489b9ff49797dbc860b7
+run_name: luxuriant-yak-769
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774782390009
+status: 3
+tags: []
+user_id: arjun
