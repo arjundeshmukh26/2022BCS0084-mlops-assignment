@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DOWNLOADS/mlops/2022BCS0084-mlops-assignment/mlruns/651432960620910360/bc1ce3d7f6df443f867d0e1009c9020a/artifacts
+end_time: 1774783158945
+entry_point_name: ''
+experiment_id: '651432960620910360'
+lifecycle_stage: active
+run_id: bc1ce3d7f6df443f867d0e1009c9020a
+run_name: loud-bird-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774783154327
+status: 3
+tags: []
+user_id: arjun

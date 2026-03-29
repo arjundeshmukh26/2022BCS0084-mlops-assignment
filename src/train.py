@@ -21,7 +21,7 @@ parser.add_argument("--feature_subset", type=int, default=0)
 args = parser.parse_args()
 
 # Load dataset
-df = pd.read_csv("data/winequality-red.csv", sep=';')
+df = pd.read_csv("data/winequality-red.csv", sep=';', quoting=3)
 
 # FIX HERE
 df.columns = df.columns.str.replace('"', '', regex=True).str.strip()

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/DOWNLOADS/mlops/2022BCS0084-mlops-assignment/mlruns/651432960620910360/4d6aded8327444c7a01893f982adab91/artifacts
+end_time: 1774783230167
+entry_point_name: ''
+experiment_id: '651432960620910360'
+lifecycle_stage: active
+run_id: 4d6aded8327444c7a01893f982adab91
+run_name: silent-shark-929
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774783225376
+status: 3
+tags: []
+user_id: arjun
