@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+venv/
+myenv/
+!data/*.dvc
+models/
+outputs/
