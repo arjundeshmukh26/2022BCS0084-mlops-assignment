@@ -6,3 +6,5 @@ myenv/
 !data/*.dvc
 models/
 outputs/
+mlruns/
+mlflow.db
